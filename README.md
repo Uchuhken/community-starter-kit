@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome to Uchuhken repository for your GitHub Learning Lab course.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Welcome new users with maintainer defined comments the first time your users:(by Uchuhken)
 
 ## Getting started
 
